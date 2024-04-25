@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sankhojjal Chatterjee 👨‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankhojjalc&color=brightgreen&base=1234&style=for-the-badge" alt="piyushgarg-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankhojjalc&color=brightgreen&base=1234&style=for-the-badge" alt="sankhojjal chatterjee" /> </p>
 
 Passionate about crafting immersive user experiences and building robust web applications, I specialize in front-end technologies like ReactJS and Next.js. With a keen interest in full-stack development, I thrive on leveraging the MERN (MongoDB, Express.js, ReactJS, Node.js) stack to create dynamic and scalable solutions.
 
