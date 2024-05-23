@@ -16,7 +16,7 @@ Fascinated by the endless possibilities of data-driven insights, I'm diving into
 ## 📫 Let's Connect!
 - **GitHub :** [sankhojjalc](https://github.com/sankhojjalc)
 - **LinkedIn :** [sankhojjalchatterjee](https://www.linkedin.com/in/sankhojjalchatterjee/)
-- **Portfolio:** [sankhojjal chatterjee](sankhojjal-dev.web.app)
+- **Portfolio:** [sankhojjalchatterjee](http://sankhojjal-dev.web.app/)
 
 Feel free to reach out if you're interested in collaborating on exciting projects or simply want to chat about tech and innovation. Let's create something amazing together! ✨
 
